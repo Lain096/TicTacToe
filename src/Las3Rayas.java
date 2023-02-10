@@ -6,6 +6,8 @@ import java.util.Scanner;
 
 public class Las3Rayas {
 
+Modificacion del codigo
+
 	static ArrayList<Integer> playerPositions = new ArrayList<Integer>();
 	static ArrayList<Integer> cpuPositions = new ArrayList<Integer>();
 	static List<List> winning = new ArrayList<List>();
